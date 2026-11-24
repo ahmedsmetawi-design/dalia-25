@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Dalia's Birthday Journey: Level 25 🎮</title>
+<meta name="description" content="A birthday journey made just for you. It opens at midnight ✨">
+<meta name="theme-color" content="#2A1B4A">
+
+<!-- Link preview (WhatsApp / iMessage). ✏️ put a 1200×630 image at assets/og.jpg and use the FULL https URL after hosting -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="Dalia's Birthday Journey: Level 25 🎮">
+<meta property="og:description" content="A birthday journey made just for you. It opens at midnight ✨">
+<meta property="og:image" content="https://ahmedsmetawi-design.github.io/dalia-25/assets/og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:url" content="https://ahmedsmetawi-design.github.io/dalia-25/">
+<meta name="twitter:card" content="summary_large_image">
+
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎂</text></svg>">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:wght@500;700;800&family=Caveat:wght@600;700&family=Baloo+Bhaijaan+2:wght@500;600;700;800&family=Aref+Ruqaa:wght@700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Gowun+Dodum&display=swap&text=%EC%83%9D%EC%9D%BC%20%EC%B6%95%ED%95%98%ED%95%B4!," rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/journey.css">
+</head>
+<body>
+  <!-- background sky -->
+  <div id="sky" aria-hidden="true">
+    <div id="stars"></div>
+    <div id="disco"></div>
+  </div>
+  <button id="moon" aria-label="moon"><span class="hat">🥳</span></button>
+
+  <!-- flying balloons + emojis layer -->
+  <div id="partylayer"></div>
+
+  <!-- top HUD -->
+  <header id="hud" class="hidden">
+    <button id="logo" class="hudbtn" aria-label="logo">✦25</button>
+    <div id="pips"></div>
+    <div class="hudright">
+      <button id="btnLang" class="hudbtn" aria-label="language">ع</button>
+      <button id="btnMute" class="hudbtn" aria-label="sound">🔊</button>
+      <button id="btnConfetti" class="hudbtn" aria-label="confetti">🎊</button>
+    </div>
+  </header>
+
+  <div id="stepbar"><i></i></div>
+  <main id="scr"></main>
+  <div id="taphint" aria-hidden="true"></div>
+  <div id="flash" aria-hidden="true"></div>
+  <div id="ytbox" class="hidden"></div>
+
+  <div id="toasts" aria-live="polite"></div>
+  <div id="modal" class="hidden"><div class="sheet"></div></div>
+  <div id="cat" aria-hidden="true">🐈</div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
+  <script src="js/content.js"></script>
+  <script src="js/audio.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
