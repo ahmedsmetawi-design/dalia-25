@@ -122,7 +122,7 @@ en: {
       { icon: "🔢", name: "Math Magic", fact: "25 is <bdi>5 × 5</bdi>. It's <bdi>1 + 3 + 5 + 7 + 9</bdi>. And it's the smallest square made of two squares: <bdi>9 + 16</bdi>.", link: "A number that connects so many ideas at once? Sounds like someone I know." },
       { icon: "🧪", name: "Science + Art", fact: "Element 25 is manganese. In 2009 it accidentally created YInMn Blue — the first new blue pigment in 200+ years.", link: "Happy accidents make the best colors. Every artist already knew that." },
       { icon: "🪐", name: "Space", fact: "Messier 25 is a star cluster 2,000 light-years away — in Sagittarius, your birthday sign.", link: "The sky has its own 25, sparkling in your sign. Coincidence? I think not. ✨" },
-      { icon: "🧠", name: "Brain", fact: "Myth: the brain is \"done\" at 25. A 2025 Cambridge study of ~4,000 brains found it keeps rewiring until about 32.", link: "So 25 isn't a finish line. Your curious brain is still upgrading." }
+      { icon: "🧠", name: "Brain", fact: "Around 25, the brain matures in a big way: calmer thinking, wiser choices, a deeper way of seeing things.", link: "And it keeps developing from here, with so much more learning ahead. We'll do that together 🤍" }
     ],
     factsIntro: ["Now… *25* facts about 25.", "One tap, one fact. Ready? 🃏"],
     facts: [
@@ -149,14 +149,14 @@ en: {
       "25 years is the silver jubilee. Shiny, valuable, very you. Happy silver jubilee! ✨",
       "Since June 2023, Korea counts age the international way. Even in Seoul, you're exactly 25.",
       "IU's song \"Palette\" is about turning 25 and knowing what you like. 🎨",
-      "The brain keeps rewiring until around 32. At 25, you're mid-upgrade.",
+      "At 25 the brain matures and gets seriously wise, and it keeps developing and learning long after.",
       "Fact #25: Dalia turned 25 today. Best fact on the list. 🎂"
     ],
     quizIntro: ["Pop quiz! 🧪", "Three questions. Zero pressure."],
     quiz: [
       { q: "25 is the sum of the first five odd numbers.", a: true, fb: "<bdi>1 + 3 + 5 + 7 + 9 = 25</bdi> ✔️" },
       { q: "Element 25 is gold.", a: false, fb: "It's manganese! Gold is 79." },
-      { q: "Science says your brain is \"finished\" at 25.", a: false, fb: "It keeps changing until around 32 🧠" }
+      { q: "At 25 the brain matures, and keeps developing and learning after that.", a: true, fb: "True! Wiser now, and so much more learning ahead 🧠" }
     ],
     yes: "True", no: "False", right: "Correct! ", wrong: "Nope! ",
     perfect: "3/3! Officially a *25* Expert 🤓",
@@ -192,7 +192,7 @@ en: {
     beats: [
       { shape: "25", line: "Midnight. November 28." },
       { shape: "★", line: "A brand-new number just arrived." },
-      { shape: "25", line: "25 isn't a deadline. It's a *beginning*." },
+      { shape: "25", line: "At 25 you get wiser. What's next: more learning, *together*." },
       { shape: "🎨", line: "Old enough to know what you love." },
       { shape: "✈️", line: "Young enough to go *anywhere*." },
       { shape: "🎧", line: "More songs. More sketches. More stories." },
@@ -326,7 +326,7 @@ ar: {
       { icon: "🔢", name: "سحر الأرقام", fact: "الـ25 هي <bdi>5 × 5</bdi>، وهي كمان <bdi>1 + 3 + 5 + 7 + 9</bdi>، وأصغر مربع بيطلع من جمع مربعين: <bdi>9 + 16</bdi>.", link: "رقم بيربط حاجات كتير ببعض؟ فكّرني بحد أعرفه." },
       { icon: "🧪", name: "علوم وفن", fact: "العنصر رقم 25 هو المنجنيز. وفي 2009، بالصدفة، طلع منه لون أزرق جديد… أول أزرق جديد من أكتر من 200 سنة.", link: "أحلى الألوان بتيجي بالصدفة… وده أي رسامة عارفاه." },
       { icon: "🪐", name: "الفضاء", fact: "في السما عنقود نجوم اسمه ميسييه 25، على بُعد حوالي 2000 سنة ضوئية… في برج القوس، برجك إنتي.", link: "يعني حتى السما فيها 25 بتلمع في برجك. صدفة؟ مظنش ✨" },
-      { icon: "🧠", name: "المخ", fact: "في كلام إن المخ بيبطّل يتطور عند 25. بس دراسة من كامبريدج سنة 2025 على حوالي 4000 مخ لقت إنه بيفضل يتطور لحد حوالي 32.", link: "يعني الـ25 مش النهاية… مخك لسه بيكبر ويتعلم." }
+      { icon: "🧠", name: "المخ", fact: "في الـ25 المخ بينضج جدًا: التفكير بيبقى أهدى، والقرارات أعقل، والنظرة للحاجات أعمق.", link: "وبيكمل من هنا… تطور وتعليم أكتر بكتير، وده هنعمله سوا 🤍" }
     ],
     factsIntro: ["ودلوقتي… *25* معلومة عن الـ25.", "كل دوسة، معلومة. جاهزة؟ 🃏"],
     facts: [
@@ -353,14 +353,14 @@ ar: {
       "الـ25 سنة اسمها اليوبيل الفضي. لامع وغالي… شبهك. مبروك يوبيلك الفضي ✨",
       "من يونيو 2023 كوريا بقت تحسب السن زي باقي العالم. يعني حتى في سيول إنتي 25 بالظبط.",
       "المغنية الكورية آيو عندها أغنية اسمها \"باليتة\" عن إنها بقت 25 وعرفت هي بتحب إيه 🎨",
-      "المخ بيفضل يتطور لحد حوالي 32. يعني في الـ25 إنتي لسه في نص التحديث.",
+      "في الـ25 المخ بينضج ويعقل جدًا… وبيكمل تطور وتعليم بعدها كمان.",
       "المعلومة رقم 25: داليا تمّت 25 النهارده. وأحلى معلومة في الليستة 🎂"
     ],
     quizIntro: ["كويز صغير! 🧪", "تلات أسئلة بس… ومن غير توتر."],
     quiz: [
       { q: "الـ25 هي مجموع أول خمس أرقام فردية.", a: true, fb: "<bdi>1 + 3 + 5 + 7 + 9 = 25</bdi> ✔️" },
       { q: "العنصر رقم 25 هو الدهب.", a: false, fb: "ده المنجنيز! الدهب رقمه 79." },
-      { q: "العلم بيقول إن المخ بيبطّل يتطور عند 25.", a: false, fb: "بيفضل يتطور لحد حوالي 32 🧠" }
+      { q: "في الـ25 المخ بينضج، وبيفضل يتطور ويتعلم بعدها كمان.", a: true, fb: "صح! عقل أكتر دلوقتي، وتعليم أكتر بكتير جاي 🧠" }
     ],
     yes: "صح", no: "غلط", right: "برافو! ", wrong: "لأ! ",
     perfect: "3 من 3! بقيتي خبيرة الـ*25* رسمي 🤓",
@@ -396,7 +396,7 @@ ar: {
     beats: [
       { shape: "25", line: "نص الليل. 28 نوفمبر." },
       { shape: "★", line: "ورقم جديد لسه واصل حالًا." },
-      { shape: "25", line: "الـ25 مش آخر الطريق… دي *أوله*." },
+      { shape: "25", line: "في الـ25 بتنضجي وتعقلي… واللي جاي تطور وتعليم *سوا*." },
       { shape: "🎨", line: "كبرتي كفاية تعرفي إنتي بتحبي إيه." },
       { shape: "✈️", line: "ولسه صغيرة كفاية تروحي *أي* مكان." },
       { shape: "🎧", line: "أغاني أكتر، ورسم أكتر، وحكايات أكتر." },
